@@ -7,4 +7,5 @@ function change() {
   i = (i + 1) % color.length;
 }
 
+
 setInterval(change,5000);
